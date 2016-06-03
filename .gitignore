@@ -1,0 +1,8 @@
+*.out
+*.o
+*.png
+eval/data/*
+ext/*
+ret/*
+core
+include/params.h
